@@ -203,7 +203,7 @@ class _ChoiseGameState extends State<ChoiseGame> {
                         width: MediaQuery.of(context).size.width * 0.05,
                       ),
                       const Text(
-                        'ПРИШЕЛЕЦ',
+                        'ПРЕДАТЕЛЬ',
                         style: TextStyle(
                           color: Color(0xff1E5541),
                           fontSize: 30,
